@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ilevkivskyi/typing_inspect/commit/ce24e24812d869e0852611cce736a1af96c876b1",
       "git:hexsha": "ce24e24812d869e0852611cce736a1af96c876b1",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T04:41:17.784454+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ilevkivskyi/typing_inspect/commit/c323cfb20c32b0a1dd042fa3875f1ab7b4d168fe",
