@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "ilevkivskyi",
+  "repo": "typing_inspect",
+  "versions": [
+    {
+      "commit": "ce24e24812d869e0852611cce736a1af96c876b1",
+      "parsed_at": "2026-10-18T04:39:21.157703+00:00",
+      "filetree": "filetree/ce24e24812d869e0852611cce736a1af96c876b1.nq.gz",
+      "blobs": [
+        "blob/61921d08ec398d65024317499abc13709888f531.nq.gz",
+        "blob/d7ad2dff4546e97f3de8f788016999afec71dd97.nq.gz",
+        "blob/bdc3376315c40070dd9076f93c91a6d01d981b11.nq.gz",
+        "blob/b29e80bd3b66d513656c2e20ce845cb8b7195bd6.nq.gz",
+        "blob/b7da0dd3ffc64f1f3b94fc4f9bc16e52a738cf6e.nq.gz",
+        "blob/ccbb756c17de910defb448008c74ee26f61bdb63.nq.gz",
+        "blob/865db0defbbf9485ba10283349117a1768466623.nq.gz",
+        "blob/603c5e981c9716e1ba1b98943c062f57ff5c6fbb.nq.gz",
+        "blob/c3f73848214886337056c2c8b9b66168908f6d31.nq.gz",
+        "blob/c1241640901e68bdd87a6d66660ef0a96c0173b6.nq.gz",
+        "blob/ea2569f22a9ec2402ad973abbf3a67b37301c5cd.nq.gz",
+        "blob/4d88378dac6af2ebba0575be6597a2fb6c7ccaa4.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
